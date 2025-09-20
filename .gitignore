@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+# Jupyter
+.ipynb_checkpoints/
+# Datos y modelos (no versionar datos sensibles)
+data/raw/
+data/processed/
+models/
+outputs/
+reports/figs/
+# Sistema
+.DS_Store
+Thumbs.db
